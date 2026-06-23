@@ -1,7 +1,3 @@
-Hello!
-I am Jatin, An aspiring robotics engineer.
-You can find me on instagram @jatin.ikr
-
 # 💫 About Me:
 Hello!<br>I am Jatin, An aspiring robotics engineer.<br>You can find me on instagram @jatin.ikr
 
